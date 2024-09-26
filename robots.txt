@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elickeya.github.io/sitemap.elickeya.gz
+Sitemap: https://elickeya.github.io/app/sitemap.elickeya.gz
+Sitemap: https://elickeya.github.io/assets/sitemap.elickeya.gz
+Sitemap: https://elickeya.github.io/css/sitemap.elickeya.gz
+Sitemap: https://elickeya.github.io/data/sitemap.elickeya.gz
+Sitemap: https://elickeya.github.io/includes/sitemap.elickeya.gz
+Sitemap: https://elickeya.github.io/item/sitemap.elickeya.gz
+Sitemap: https://elickeya.github.io/src/sitemap.elickeya.gz
